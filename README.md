@@ -52,3 +52,7 @@ Se não houver transações nos últimos 60 segundos, todos os valores serão 0.
 - Java 23
 - Spring Boot
 - Armazenamento em memória (sem banco de dados)
+
+## Links e Referências
+O repositório do desafio pode ser acessado [aqui](https://github.com/rafaellins-itau/desafio-itau-vaga-99-junior).
+
